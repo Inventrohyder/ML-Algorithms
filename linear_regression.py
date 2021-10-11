@@ -107,3 +107,5 @@ if __name__ == '__main__':
 			
 	st.text("Predicted Feature (w): {}".format(w.flatten()))
 	st.text("Predicted Label (b): {}".format(b))
+
+# Noice
